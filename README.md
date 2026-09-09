@@ -4,11 +4,6 @@
 
 ---
 
-## 🧠 Em aprendizado agora
-
-- ⚙️ **GitHub Actions** — pipelines de CI/CD, testes automatizados, matrix strategy e reusable workflows
-- 🔒 **Segurança de dependências** — auditoria com `pip-audit`, branch protection, CODEOWNERS
-
 ## 🛠️ Stack
 
 **Infraestrutura & Sistemas**
@@ -89,9 +84,3 @@ Troubleshooting de incidentes, análise de logs, automação de rotinas (backups
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ErisonSantiago&show_icons=true&theme=tokyonight&hide_border=true)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ErisonSantiago&layout=compact&theme=tokyonight&hide_border=true)
 
-## 📫 Vamos conversar
-
-- LinkedIn: _adicione seu link aqui_
-- E-mail: _adicione seu e-mail aqui_
-
----
