@@ -79,8 +79,3 @@ Microsserviços, testes unitários e versionamento de código.
 
 Troubleshooting de incidentes, análise de logs, automação de rotinas (backups, limpeza de logs, provisionamento, cron jobs) e suporte proativo baseado em métricas de observabilidade.
 
-## 📊 Estatísticas
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ErisonSantiago&show_icons=true&theme=tokyonight&hide_border=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ErisonSantiago&layout=compact&theme=tokyonight&hide_border=true)
-
